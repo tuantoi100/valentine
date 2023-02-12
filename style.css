@@ -176,7 +176,7 @@
             display: none;
         }
         .toast{
-            background-color: white;
+            background-image: url("bgr1.jpg");
             position: absolute;
             width: 100%;
             height: 100%;
