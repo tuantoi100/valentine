@@ -238,7 +238,7 @@
             margin-top: 5%;
             transition: 1s;
             cursor: pointer;
-            animation: mail 1s forwards 3s infinite;
+            animation: mail 1s forwards 8s infinite;
         }
         @keyframes mail{
             0%{
